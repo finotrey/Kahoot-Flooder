@@ -12,6 +12,6 @@
     "kahoot.js-updated": "^2.4.0",
     "random-name": "^0.1.2",
     "readline-sync": "^1.4.10",
-    "request": "^2.81.0"
+    "request": "^2.88.2"
   }
 }
